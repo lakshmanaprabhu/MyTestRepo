@@ -1,0 +1,17 @@
+git config --global user.name "Lakshman"
+git config --global user.email "lakshman@ctsit.com"
+
+git init
+git remote add Lawrys git@192.168.1.200:Lawrys.git
+
+git pull Lawrys master
+
+git add * 
+git commit -am "lakshman first commit for android"
+
+git fetch Lawrys master
+git push Lawrys master
+ 
+git log
+
+
