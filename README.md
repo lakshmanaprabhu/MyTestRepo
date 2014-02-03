@@ -1,4 +1,0 @@
-MyTestRepo
-==========
-
-My test repo 
